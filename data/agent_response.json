@@ -1,0 +1,11 @@
+{
+  "is_commitment": true,
+  "title": "Entregar informe de Ingeniería de Software",
+  "category": "academic",
+  "responsible": "user",
+  "due_date": "2026-08-21",
+  "due_time": "23:59",
+  "priority": "high",
+  "status": "pending",
+  "needs_approval": false
+}
